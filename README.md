@@ -134,88 +134,88 @@ The following data represents the average time each example spent in each
 category.
 
 ### detach-dom-delegate-drop-listeners
-213.470 ms Scripting
-186.383 ms Rendering
-44.806 ms Painting
-61.956 ms Other
+- 213.470 ms Scripting
+- 186.383 ms Rendering
+- 44.806 ms Painting
+- 61.956 ms Other
 
 ### detach-dom-delegate-keep-listeners
-203.603 ms Scripting
-182.586 ms Rendering
-43.433 ms Painting
-61.896 ms Other
+- 203.603 ms Scripting
+- 182.586 ms Rendering
+- 43.433 ms Painting
+- 61.896 ms Other
 
 ### detach-dom-drop-listeners
-781.170 ms Scripting
-187.757 ms Rendering
-44.127 ms Painting
-75.966 ms Other
+- 781.170 ms Scripting
+- 187.757 ms Rendering
+- 44.127 ms Painting
+- 75.966 ms Other
 
 ### detach-dom-keep-listeners
-298.474 ms Scripting
-183.565 ms Rendering
-44.637 ms Painting
-62.802 ms Other
+- 298.474 ms Scripting
+- 183.565 ms Rendering
+- 44.637 ms Painting
+- 62.802 ms Other
 
 ### hide-dom-delegate-drop-listeners
-53.388 ms Scripting
-363.224 ms Rendering
-46.250 ms Painting
-68.047 ms Other
+- 53.388 ms Scripting
+- 363.224 ms Rendering
+- 46.250 ms Painting
+- 68.047 ms Other
 
 ### hide-dom-delegate-keep-listeners
-48.689 ms Scripting
-371.495 ms Rendering
-49.270 ms Painting
-67.073 ms Other
+- 48.689 ms Scripting
+- 371.495 ms Rendering
+- 49.270 ms Painting
+- 67.073 ms Other
 
 ### hide-dom-drop-listeners
-681.155 ms Scripting
-385.125 ms Rendering
-50.294 ms Painting
-69.783 ms Other
+- 681.155 ms Scripting
+- 385.125 ms Rendering
+- 50.294 ms Painting
+- 69.783 ms Other
 
 ### hide-dom-keep-listeners
-137.015 ms Scripting
-358.863 ms Rendering
-47.241 ms Painting
-68.901 ms Other
+- 137.015 ms Scripting
+- 358.863 ms Rendering
+- 47.241 ms Painting
+- 68.901 ms Other
 
 ### remove-dom
-824.778 ms Scripting
-186.129 ms Rendering
-44.916 ms Painting
-66.279 ms Other
+- 824.778 ms Scripting
+- 186.129 ms Rendering
+- 44.916 ms Painting
+- 66.279 ms Other
 
 ### remove-dom-cache
-674.370 ms Scripting
-195.731 ms Rendering
-47.871 ms Painting
-69.543 ms Other
+- 674.370 ms Scripting
+- 195.731 ms Rendering
+- 47.871 ms Painting
+- 69.543 ms Other
 
 ### remove-dom-delegate
-236.309 ms Scripting
-181.084 ms Rendering
-44.216 ms Painting
-66.055 ms Other
+- 236.309 ms Scripting
+- 181.084 ms Rendering
+- 44.216 ms Painting
+- 66.055 ms Other
 
 ### remove-dom-delegate-cache
-229.616 ms Scripting
-186.737 ms Rendering
-44.923 ms Painting
-58.108 ms Other
+- 229.616 ms Scripting
+- 186.737 ms Rendering
+- 44.923 ms Painting
+- 58.108 ms Other
 
 ### remove-dom-delegate-serialize
-22.643 ms Loading
-252.217 ms Scripting
-184.507 ms Rendering
-45.414 ms Painting
-59.765 ms Other
+- 22.643 ms Loading
+- 252.217 ms Scripting
+- 184.507 ms Rendering
+- 45.414 ms Painting
+- 59.765 ms Other
 
 ### remove-dom-serialize
-21.607 ms Loading
-815.247 ms Scripting
-184.802 ms Rendering
-44.201 ms Painting
-65.96 ms Other
+- 21.607 ms Loading
+- 815.247 ms Scripting
+- 184.802 ms Rendering
+- 44.201 ms Painting
+- 65.96 ms Other
 
